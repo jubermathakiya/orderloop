@@ -13,7 +13,8 @@ This exercise is designed to assess your ability to build a robust, production-r
     3) php artisan l5-swagger:generate
 - open the swagger document on follogin path
  base_url/api/documentation
- 
+- You can get the postman collection from postman-collection folder
+
 ## Overview
 
 You are tasked with developing a **Library Management API** that allows users to browse books, borrow/return them, and enables administrators to manage the book catalog. The API should incorporate best practices in authentication, role-based access control, event-driven design, caching, error handling, logging, and automated testing.
