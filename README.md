@@ -14,7 +14,7 @@ This exercise is designed to assess your ability to build a robust, production-r
 - open the swagger document on follogin path
  base_url/api/documentation
 - You can get the postman collection from postman-collection folder
-
+- I have put the SQL challenges on mysql-challenges folder. Please checkout there for mysql challenges query
 ## Overview
 
 You are tasked with developing a **Library Management API** that allows users to browse books, borrow/return them, and enables administrators to manage the book catalog. The API should incorporate best practices in authentication, role-based access control, event-driven design, caching, error handling, logging, and automated testing.
